@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KwaMashu Shisanyama</title>
+<title>Shisanyama</title>
 
 <style>
 body{
@@ -72,7 +72,7 @@ footer{
 <body>
 
 <header>
-<h1>KwaMashu Shisanyama</h1>
+<h1>Shisanyama</h1>
 <p>Best Braai Meat in Town</p>
 </header>
 
